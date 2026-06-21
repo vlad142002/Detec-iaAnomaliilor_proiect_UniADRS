@@ -1,0 +1,18 @@
+[2026-06-16 18:49:53,827][root][INFO] - The current working directory is /Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/ATM/Master/Sem2/DETECȚIA ANOMALIILOR/proiect/UniADRS
+[2026-06-16 18:49:58,925][root][INFO] - Creating dataset with 500 examples
+[2026-06-16 18:49:58,927][root][INFO] - Creating dataset with 82 examples
+[2026-06-16 18:49:58,928][root][INFO] - Creating dataset with 100 examples
+[2026-06-16 18:49:58,928][root][INFO] - Creating dataset with 100 examples
+[2026-06-16 18:49:58,929][root][INFO] - Creating dataset with 100 examples
+[2026-06-16 18:49:58,930][root][INFO] - Creating dataset with 100 examples
+[2026-06-16 18:50:02,162][root][INFO] - [train] epoch:1 iter:0/500 0.00% lr:0.010000 loss:2.004912 ETA:26.0min
+[2026-06-16 18:50:17,305][root][INFO] - [train] epoch:1 iter:10/500 2.00% lr:0.010000 loss:1.025384 ETA:13.0min
+[2026-06-16 18:50:33,516][root][INFO] - [train] epoch:1 iter:20/500 4.00% lr:0.010000 loss:0.788992 ETA:13.0min
+[2026-06-16 18:50:50,048][root][INFO] - [train] epoch:1 iter:30/500 6.00% lr:0.010000 loss:0.641332 ETA:13.0min
+[2026-06-16 18:51:07,468][root][INFO] - [train] epoch:1 iter:40/500 8.00% lr:0.010000 loss:0.704762 ETA:12.0min
+[2026-06-16 18:51:25,549][root][INFO] - [train] epoch:1 iter:50/500 10.00% lr:0.010000 loss:0.614166 ETA:13.0min
+[2026-06-16 18:51:43,073][root][INFO] - [train] epoch:1 iter:60/500 12.00% lr:0.010000 loss:0.568457 ETA:13.0min
+[2026-06-16 18:51:59,130][root][INFO] - [train] epoch:1 iter:70/500 14.00% lr:0.010000 loss:0.588347 ETA:12.0min
+[2026-06-16 18:52:16,120][root][INFO] - [train] epoch:1 iter:80/500 16.00% lr:0.010000 loss:0.547185 ETA:12.0min
+[2026-06-16 18:52:31,376][root][INFO] - [train] epoch:1 iter:90/500 18.00% lr:0.010000 loss:0.647056 ETA:11.0min
+[2026-06-16 18:52:46,270][root][INFO] - [train] epoch:1 iter:100/500 20.00% lr:0.010000 loss:0.619696 ETA:11.0min

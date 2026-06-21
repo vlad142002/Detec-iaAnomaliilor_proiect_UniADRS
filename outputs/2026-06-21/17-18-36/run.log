@@ -1,0 +1,8 @@
+[2026-06-21 17:18:36,247][root][INFO] - The current working directory is /Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/ATM/Master/Sem2/DETECȚIA ANOMALIILOR/proiect/UniADRS
+[2026-06-21 17:18:38,997][root][INFO] - Creating dataset with 500 examples
+[2026-06-21 17:18:38,998][root][INFO] - Creating dataset with 82 examples
+[2026-06-21 17:18:38,998][root][INFO] - Creating dataset with 100 examples
+[2026-06-21 17:18:38,999][root][INFO] - Creating dataset with 100 examples
+[2026-06-21 17:18:38,999][root][INFO] - Creating dataset with 100 examples
+[2026-06-21 17:18:38,999][root][INFO] - Creating dataset with 100 examples
+[2026-06-21 17:18:41,345][root][INFO] - [train] epoch:1 iter:0/500 0.00% lr:0.010000 loss:2.004912 ETA:19.0min

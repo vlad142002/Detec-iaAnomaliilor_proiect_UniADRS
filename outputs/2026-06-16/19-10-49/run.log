@@ -1,0 +1,218 @@
+[2026-06-16 19:10:49,744][root][INFO] - The current working directory is /Users/vlad/Library/Mobile Documents/com~apple~CloudDocs/ATM/Master/Sem2/DETECȚIA ANOMALIILOR/proiect/UniADRS
+[2026-06-16 19:10:52,053][root][INFO] - Creating dataset with 500 examples
+[2026-06-16 19:10:52,053][root][INFO] - Creating dataset with 82 examples
+[2026-06-16 19:10:52,054][root][INFO] - Creating dataset with 100 examples
+[2026-06-16 19:10:52,054][root][INFO] - Creating dataset with 100 examples
+[2026-06-16 19:10:52,054][root][INFO] - Creating dataset with 100 examples
+[2026-06-16 19:10:52,054][root][INFO] - Creating dataset with 100 examples
+[2026-06-16 19:10:53,768][root][INFO] - [train] epoch:1 iter:0/500 0.00% lr:0.010000 loss:2.004912 ETA:14.0min
+[2026-06-16 19:11:09,127][root][INFO] - [train] epoch:1 iter:10/500 2.00% lr:0.010000 loss:1.025384 ETA:12.0min
+[2026-06-16 19:11:24,406][root][INFO] - [train] epoch:1 iter:20/500 4.00% lr:0.010000 loss:0.788992 ETA:12.0min
+[2026-06-16 19:11:39,615][root][INFO] - [train] epoch:1 iter:30/500 6.00% lr:0.010000 loss:0.641332 ETA:12.0min
+[2026-06-16 19:11:54,341][root][INFO] - [train] epoch:1 iter:40/500 8.00% lr:0.010000 loss:0.704762 ETA:11.0min
+[2026-06-16 19:12:09,569][root][INFO] - [train] epoch:1 iter:50/500 10.00% lr:0.010000 loss:0.614166 ETA:11.0min
+[2026-06-16 19:12:24,943][root][INFO] - [train] epoch:1 iter:60/500 12.00% lr:0.010000 loss:0.568457 ETA:11.0min
+[2026-06-16 19:12:40,819][root][INFO] - [train] epoch:1 iter:70/500 14.00% lr:0.010000 loss:0.588347 ETA:11.0min
+[2026-06-16 19:12:57,071][root][INFO] - [train] epoch:1 iter:80/500 16.00% lr:0.010000 loss:0.547185 ETA:10.0min
+[2026-06-16 19:13:12,596][root][INFO] - [train] epoch:1 iter:90/500 18.00% lr:0.010000 loss:0.647056 ETA:10.0min
+[2026-06-16 19:13:28,624][root][INFO] - [train] epoch:1 iter:100/500 20.00% lr:0.010000 loss:0.619696 ETA:10.0min
+[2026-06-16 19:19:43,986][root][INFO] - used time: 375.2113699913025
+[2026-06-16 19:19:48,042][root][INFO] - scoreDF: 0.5358256916047834
+[2026-06-16 19:19:48,043][root][INFO] - scoreDt: 0.07869881381680852
+[2026-06-16 19:19:48,043][root][INFO] - scoreFt: 0.07540856348949505
+[2026-06-16 19:19:48,043][root][INFO] - scoreTD: 0.614524505421592
+[2026-06-16 19:19:48,043][root][INFO] - scoreBS: 0.4604171281152884
+[2026-06-16 19:19:48,043][root][INFO] - scoreODP: 1.0032902503273136
+[2026-06-16 19:19:48,043][root][INFO] - scoreTDBS: 0.0032902503273134626
+[2026-06-16 19:19:48,043][root][INFO] - scoreSNPR: 1.0436323167430688
+[2026-06-16 19:19:50,708][root][INFO] - [train] epoch:2 iter:0/500 0.00% lr:0.009758 loss:0.617177 ETA:20.0min
+[2026-06-16 19:20:06,312][root][INFO] - [train] epoch:2 iter:10/500 2.00% lr:0.009758 loss:0.453771 ETA:13.0min
+[2026-06-16 19:20:21,404][root][INFO] - [train] epoch:2 iter:20/500 4.00% lr:0.009758 loss:0.517620 ETA:13.0min
+[2026-06-16 19:20:36,347][root][INFO] - [train] epoch:2 iter:30/500 6.00% lr:0.009758 loss:0.547181 ETA:12.0min
+[2026-06-16 19:20:51,051][root][INFO] - [train] epoch:2 iter:40/500 8.00% lr:0.009758 loss:0.811165 ETA:11.0min
+[2026-06-16 19:21:06,792][root][INFO] - [train] epoch:2 iter:50/500 10.00% lr:0.009758 loss:0.613496 ETA:11.0min
+[2026-06-16 19:21:22,209][root][INFO] - [train] epoch:2 iter:60/500 12.00% lr:0.009758 loss:0.484527 ETA:11.0min
+[2026-06-16 19:21:37,966][root][INFO] - [train] epoch:2 iter:70/500 14.00% lr:0.009758 loss:0.453010 ETA:11.0min
+[2026-06-16 19:21:54,991][root][INFO] - [train] epoch:2 iter:80/500 16.00% lr:0.009758 loss:0.515313 ETA:11.0min
+[2026-06-16 19:22:10,011][root][INFO] - [train] epoch:2 iter:90/500 18.00% lr:0.009758 loss:0.489176 ETA:10.0min
+[2026-06-16 19:22:25,309][root][INFO] - [train] epoch:2 iter:100/500 20.00% lr:0.009758 loss:0.470810 ETA:10.0min
+[2026-06-16 19:28:22,429][root][INFO] - used time: 357.0904219150543
+[2026-06-16 19:28:26,066][root][INFO] - scoreDF: 0.8878574726196816
+[2026-06-16 19:28:26,066][root][INFO] - scoreDt: 0.13657533901624025
+[2026-06-16 19:28:26,066][root][INFO] - scoreFt: 0.06002256636901457
+[2026-06-16 19:28:26,066][root][INFO] - scoreTD: 1.0244328116359218
+[2026-06-16 19:28:26,066][root][INFO] - scoreBS: 0.827834906250667
+[2026-06-16 19:28:26,066][root][INFO] - scoreODP: 1.0765527726472257
+[2026-06-16 19:28:26,067][root][INFO] - scoreTDBS: 0.07655277264722568
+[2026-06-16 19:28:26,067][root][INFO] - scoreSNPR: 2.275399858389669
+[2026-06-16 19:28:29,234][root][INFO] - [train] epoch:3 iter:0/500 0.00% lr:0.009055 loss:0.488430 ETA:25.0min
+[2026-06-16 19:28:42,993][root][INFO] - [train] epoch:3 iter:10/500 2.00% lr:0.009055 loss:0.545381 ETA:12.0min
+[2026-06-16 19:28:56,733][root][INFO] - [train] epoch:3 iter:20/500 4.00% lr:0.009055 loss:0.605052 ETA:12.0min
+[2026-06-16 19:29:11,212][root][INFO] - [train] epoch:3 iter:30/500 6.00% lr:0.009055 loss:0.641222 ETA:12.0min
+[2026-06-16 19:29:25,068][root][INFO] - [train] epoch:3 iter:40/500 8.00% lr:0.009055 loss:0.638500 ETA:11.0min
+[2026-06-16 19:29:39,403][root][INFO] - [train] epoch:3 iter:50/500 10.00% lr:0.009055 loss:0.605263 ETA:10.0min
+[2026-06-16 19:29:53,899][root][INFO] - [train] epoch:3 iter:60/500 12.00% lr:0.009055 loss:0.559809 ETA:10.0min
+[2026-06-16 19:30:08,713][root][INFO] - [train] epoch:3 iter:70/500 14.00% lr:0.009055 loss:0.666924 ETA:11.0min
+[2026-06-16 19:30:22,724][root][INFO] - [train] epoch:3 iter:80/500 16.00% lr:0.009055 loss:0.626970 ETA:10.0min
+[2026-06-16 19:30:36,764][root][INFO] - [train] epoch:3 iter:90/500 18.00% lr:0.009055 loss:0.533670 ETA:9.0min
+[2026-06-16 19:30:51,295][root][INFO] - [train] epoch:3 iter:100/500 20.00% lr:0.009055 loss:0.547648 ETA:9.0min
+[2026-06-16 19:36:36,162][root][INFO] - used time: 344.82161808013916
+[2026-06-16 19:36:39,865][root][INFO] - scoreDF: 0.8294647429173212
+[2026-06-16 19:36:39,865][root][INFO] - scoreDt: 0.18469860432786422
+[2026-06-16 19:36:39,865][root][INFO] - scoreFt: 0.11091094655872202
+[2026-06-16 19:36:39,865][root][INFO] - scoreTD: 1.0141633472451854
+[2026-06-16 19:36:39,865][root][INFO] - scoreBS: 0.7185537963585992
+[2026-06-16 19:36:39,865][root][INFO] - scoreODP: 1.073787657769142
+[2026-06-16 19:36:39,865][root][INFO] - scoreTDBS: 0.0737876577691422
+[2026-06-16 19:36:39,865][root][INFO] - scoreSNPR: 1.6652874225545913
+[2026-06-16 19:36:43,163][root][INFO] - [train] epoch:4 iter:0/500 0.00% lr:0.007960 loss:0.731145 ETA:26.0min
+[2026-06-16 19:36:58,650][root][INFO] - [train] epoch:4 iter:10/500 2.00% lr:0.007960 loss:0.658992 ETA:14.0min
+[2026-06-16 19:37:13,509][root][INFO] - [train] epoch:4 iter:20/500 4.00% lr:0.007960 loss:0.606884 ETA:13.0min
+[2026-06-16 19:37:28,673][root][INFO] - [train] epoch:4 iter:30/500 6.00% lr:0.007960 loss:0.636542 ETA:13.0min
+[2026-06-16 19:37:43,175][root][INFO] - [train] epoch:4 iter:40/500 8.00% lr:0.007960 loss:0.677989 ETA:11.0min
+[2026-06-16 19:37:57,576][root][INFO] - [train] epoch:4 iter:50/500 10.00% lr:0.007960 loss:0.637607 ETA:11.0min
+[2026-06-16 19:38:12,074][root][INFO] - [train] epoch:4 iter:60/500 12.00% lr:0.007960 loss:0.624129 ETA:11.0min
+[2026-06-16 19:38:25,915][root][INFO] - [train] epoch:4 iter:70/500 14.00% lr:0.007960 loss:0.627917 ETA:11.0min
+[2026-06-16 19:38:40,177][root][INFO] - [train] epoch:4 iter:80/500 16.00% lr:0.007960 loss:0.620398 ETA:10.0min
+[2026-06-16 19:38:54,327][root][INFO] - [train] epoch:4 iter:90/500 18.00% lr:0.007960 loss:0.604284 ETA:10.0min
+[2026-06-16 19:39:08,869][root][INFO] - [train] epoch:4 iter:100/500 20.00% lr:0.007960 loss:0.677841 ETA:10.0min
+[2026-06-16 19:44:55,502][root][INFO] - used time: 346.4936399459839
+[2026-06-16 19:44:59,121][root][INFO] - scoreDF: 0.8633854772840803
+[2026-06-16 19:44:59,121][root][INFO] - scoreDt: 0.12703289081742652
+[2026-06-16 19:44:59,121][root][INFO] - scoreFt: 0.10233003340066177
+[2026-06-16 19:44:59,121][root][INFO] - scoreTD: 0.9904183681015069
+[2026-06-16 19:44:59,121][root][INFO] - scoreBS: 0.7610554438834185
+[2026-06-16 19:44:59,121][root][INFO] - scoreODP: 1.0247028574167647
+[2026-06-16 19:44:59,121][root][INFO] - scoreTDBS: 0.024702857416764756
+[2026-06-16 19:44:59,121][root][INFO] - scoreSNPR: 1.2414037853387918
+[2026-06-16 19:45:01,367][root][INFO] - [train] epoch:5 iter:0/500 0.00% lr:0.006580 loss:0.398504 ETA:18.0min
+[2026-06-16 19:45:14,957][root][INFO] - [train] epoch:5 iter:10/500 2.00% lr:0.006580 loss:0.788171 ETA:11.0min
+[2026-06-16 19:45:29,060][root][INFO] - [train] epoch:5 iter:20/500 4.00% lr:0.006580 loss:0.559172 ETA:11.0min
+[2026-06-16 19:45:43,239][root][INFO] - [train] epoch:5 iter:30/500 6.00% lr:0.006580 loss:0.542222 ETA:11.0min
+[2026-06-16 19:45:57,224][root][INFO] - [train] epoch:5 iter:40/500 8.00% lr:0.006580 loss:0.621720 ETA:11.0min
+[2026-06-16 19:46:11,354][root][INFO] - [train] epoch:5 iter:50/500 10.00% lr:0.006580 loss:0.598905 ETA:10.0min
+[2026-06-16 19:46:25,150][root][INFO] - [train] epoch:5 iter:60/500 12.00% lr:0.006580 loss:0.708735 ETA:10.0min
+[2026-06-16 19:46:39,364][root][INFO] - [train] epoch:5 iter:70/500 14.00% lr:0.006580 loss:0.531327 ETA:10.0min
+[2026-06-16 19:46:53,365][root][INFO] - [train] epoch:5 iter:80/500 16.00% lr:0.006580 loss:0.534205 ETA:10.0min
+[2026-06-16 19:47:07,643][root][INFO] - [train] epoch:5 iter:90/500 18.00% lr:0.006580 loss:0.609259 ETA:9.0min
+[2026-06-16 19:47:21,499][root][INFO] - [train] epoch:5 iter:100/500 20.00% lr:0.006580 loss:0.624901 ETA:9.0min
+[2026-06-16 19:52:56,541][root][INFO] - used time: 334.8977620601654
+[2026-06-16 19:53:00,218][root][INFO] - scoreDF: 0.3272190421302708
+[2026-06-16 19:53:00,218][root][INFO] - scoreDt: 0.2115440677848977
+[2026-06-16 19:53:00,218][root][INFO] - scoreFt: 0.26049862326656786
+[2026-06-16 19:53:00,218][root][INFO] - scoreTD: 0.5387631099151685
+[2026-06-16 19:53:00,218][root][INFO] - scoreBS: 0.06672041886370295
+[2026-06-16 19:53:00,218][root][INFO] - scoreODP: 0.9510454445183298
+[2026-06-16 19:53:00,218][root][INFO] - scoreTDBS: -0.04895455548167016
+[2026-06-16 19:53:00,218][root][INFO] - scoreSNPR: 0.8120736498803871
+[2026-06-16 19:53:02,332][root][INFO] - [train] epoch:6 iter:0/500 0.00% lr:0.005050 loss:0.608058 ETA:16.0min
+[2026-06-16 19:53:16,113][root][INFO] - [train] epoch:6 iter:10/500 2.00% lr:0.005050 loss:0.528151 ETA:11.0min
+[2026-06-16 19:53:30,092][root][INFO] - [train] epoch:6 iter:20/500 4.00% lr:0.005050 loss:0.501408 ETA:11.0min
+[2026-06-16 19:53:44,116][root][INFO] - [train] epoch:6 iter:30/500 6.00% lr:0.005050 loss:0.538358 ETA:11.0min
+[2026-06-16 19:53:57,998][root][INFO] - [train] epoch:6 iter:40/500 8.00% lr:0.005050 loss:0.598096 ETA:11.0min
+[2026-06-16 19:54:11,941][root][INFO] - [train] epoch:6 iter:50/500 10.00% lr:0.005050 loss:0.544807 ETA:10.0min
+[2026-06-16 19:54:26,483][root][INFO] - [train] epoch:6 iter:60/500 12.00% lr:0.005050 loss:0.506653 ETA:10.0min
+[2026-06-16 19:54:41,077][root][INFO] - [train] epoch:6 iter:70/500 14.00% lr:0.005050 loss:0.488343 ETA:10.0min
+[2026-06-16 19:54:54,900][root][INFO] - [train] epoch:6 iter:80/500 16.00% lr:0.005050 loss:0.509909 ETA:10.0min
+[2026-06-16 19:55:08,950][root][INFO] - [train] epoch:6 iter:90/500 18.00% lr:0.005050 loss:0.497335 ETA:9.0min
+[2026-06-16 19:55:23,165][root][INFO] - [train] epoch:6 iter:100/500 20.00% lr:0.005050 loss:0.560130 ETA:9.0min
+[2026-06-16 20:01:03,008][root][INFO] - used time: 339.77184224128723
+[2026-06-16 20:01:06,681][root][INFO] - scoreDF: 0.8994704344771065
+[2026-06-16 20:01:06,681][root][INFO] - scoreDt: 0.3297553673908328
+[2026-06-16 20:01:06,681][root][INFO] - scoreFt: 0.22928077848048384
+[2026-06-16 20:01:06,681][root][INFO] - scoreTD: 1.2292258018679392
+[2026-06-16 20:01:06,681][root][INFO] - scoreBS: 0.6701896559966227
+[2026-06-16 20:01:06,681][root][INFO] - scoreODP: 1.100474588910349
+[2026-06-16 20:01:06,681][root][INFO] - scoreTDBS: 0.10047458891034894
+[2026-06-16 20:01:06,681][root][INFO] - scoreSNPR: 1.4382163632565528
+[2026-06-16 20:01:09,651][root][INFO] - [train] epoch:7 iter:0/500 0.00% lr:0.003520 loss:0.441353 ETA:23.0min
+[2026-06-16 20:01:23,493][root][INFO] - [train] epoch:7 iter:10/500 2.00% lr:0.003520 loss:0.600576 ETA:12.0min
+[2026-06-16 20:01:37,497][root][INFO] - [train] epoch:7 iter:20/500 4.00% lr:0.003520 loss:0.527119 ETA:12.0min
+[2026-06-16 20:01:51,666][root][INFO] - [train] epoch:7 iter:30/500 6.00% lr:0.003520 loss:0.602871 ETA:12.0min
+[2026-06-16 20:02:05,397][root][INFO] - [train] epoch:7 iter:40/500 8.00% lr:0.003520 loss:0.700102 ETA:11.0min
+[2026-06-16 20:02:19,828][root][INFO] - [train] epoch:7 iter:50/500 10.00% lr:0.003520 loss:0.605717 ETA:10.0min
+[2026-06-16 20:02:34,627][root][INFO] - [train] epoch:7 iter:60/500 12.00% lr:0.003520 loss:0.561319 ETA:10.0min
+[2026-06-16 20:02:50,224][root][INFO] - [train] epoch:7 iter:70/500 14.00% lr:0.003520 loss:0.523638 ETA:11.0min
+[2026-06-16 20:03:05,630][root][INFO] - [train] epoch:7 iter:80/500 16.00% lr:0.003520 loss:0.564965 ETA:11.0min
+[2026-06-16 20:03:21,436][root][INFO] - [train] epoch:7 iter:90/500 18.00% lr:0.003520 loss:0.521528 ETA:10.0min
+[2026-06-16 20:03:36,555][root][INFO] - [train] epoch:7 iter:100/500 20.00% lr:0.003520 loss:0.575982 ETA:10.0min
+[2026-06-16 20:09:34,887][root][INFO] - used time: 358.17547583580017
+[2026-06-16 20:09:38,656][root][INFO] - scoreDF: 0.7891256081675364
+[2026-06-16 20:09:38,656][root][INFO] - scoreDt: 0.3282175286800372
+[2026-06-16 20:09:38,656][root][INFO] - scoreFt: 0.2631278064295555
+[2026-06-16 20:09:38,656][root][INFO] - scoreTD: 1.1173431368475737
+[2026-06-16 20:09:38,656][root][INFO] - scoreBS: 0.5259978017379809
+[2026-06-16 20:09:38,656][root][INFO] - scoreODP: 1.0650897222504816
+[2026-06-16 20:09:38,656][root][INFO] - scoreTDBS: 0.06508972225048165
+[2026-06-16 20:09:38,656][root][INFO] - scoreSNPR: 1.2473692276529027
+[2026-06-16 20:09:41,489][root][INFO] - [train] epoch:8 iter:0/500 0.00% lr:0.002140 loss:0.547080 ETA:22.0min
+[2026-06-16 20:09:55,603][root][INFO] - [train] epoch:8 iter:10/500 2.00% lr:0.002140 loss:0.504145 ETA:12.0min
+[2026-06-16 20:10:09,594][root][INFO] - [train] epoch:8 iter:20/500 4.00% lr:0.002140 loss:0.536961 ETA:12.0min
+[2026-06-16 20:10:23,662][root][INFO] - [train] epoch:8 iter:30/500 6.00% lr:0.002140 loss:0.582417 ETA:12.0min
+[2026-06-16 20:10:37,481][root][INFO] - [train] epoch:8 iter:40/500 8.00% lr:0.002140 loss:0.617379 ETA:11.0min
+[2026-06-16 20:10:51,536][root][INFO] - [train] epoch:8 iter:50/500 10.00% lr:0.002140 loss:0.532614 ETA:10.0min
+[2026-06-16 20:11:05,379][root][INFO] - [train] epoch:8 iter:60/500 12.00% lr:0.002140 loss:0.563561 ETA:10.0min
+[2026-06-16 20:11:19,389][root][INFO] - [train] epoch:8 iter:70/500 14.00% lr:0.002140 loss:0.578515 ETA:10.0min
+[2026-06-16 20:11:33,173][root][INFO] - [train] epoch:8 iter:80/500 16.00% lr:0.002140 loss:0.611856 ETA:10.0min
+[2026-06-16 20:11:47,379][root][INFO] - [train] epoch:8 iter:90/500 18.00% lr:0.002140 loss:0.620385 ETA:9.0min
+[2026-06-16 20:12:01,235][root][INFO] - [train] epoch:8 iter:100/500 20.00% lr:0.002140 loss:0.592822 ETA:9.0min
+[2026-06-16 20:17:36,673][root][INFO] - used time: 335.38886404037476
+[2026-06-16 20:17:40,222][root][INFO] - scoreDF: 0.7755784174167563
+[2026-06-16 20:17:40,222][root][INFO] - scoreDt: 0.3153696706466438
+[2026-06-16 20:17:40,222][root][INFO] - scoreFt: 0.25438836106525714
+[2026-06-16 20:17:40,222][root][INFO] - scoreTD: 1.0909480880634002
+[2026-06-16 20:17:40,222][root][INFO] - scoreBS: 0.5211900563514991
+[2026-06-16 20:17:40,222][root][INFO] - scoreODP: 1.0609813095813867
+[2026-06-16 20:17:40,223][root][INFO] - scoreTDBS: 0.060981309581386645
+[2026-06-16 20:17:40,223][root][INFO] - scoreSNPR: 1.2397173727839828
+[2026-06-16 20:17:43,102][root][INFO] - [train] epoch:9 iter:0/500 0.00% lr:0.001045 loss:0.319929 ETA:23.0min
+[2026-06-16 20:17:56,828][root][INFO] - [train] epoch:9 iter:10/500 2.00% lr:0.001045 loss:0.667360 ETA:12.0min
+[2026-06-16 20:18:11,018][root][INFO] - [train] epoch:9 iter:20/500 4.00% lr:0.001045 loss:0.564374 ETA:12.0min
+[2026-06-16 20:18:25,304][root][INFO] - [train] epoch:9 iter:30/500 6.00% lr:0.001045 loss:0.607748 ETA:12.0min
+[2026-06-16 20:18:39,418][root][INFO] - [train] epoch:9 iter:40/500 8.00% lr:0.001045 loss:0.578420 ETA:12.0min
+[2026-06-16 20:18:52,984][root][INFO] - [train] epoch:9 iter:50/500 10.00% lr:0.001045 loss:0.721598 ETA:10.0min
+[2026-06-16 20:19:07,025][root][INFO] - [train] epoch:9 iter:60/500 12.00% lr:0.001045 loss:0.616334 ETA:10.0min
+[2026-06-16 20:19:21,195][root][INFO] - [train] epoch:9 iter:70/500 14.00% lr:0.001045 loss:0.623748 ETA:10.0min
+[2026-06-16 20:19:35,083][root][INFO] - [train] epoch:9 iter:80/500 16.00% lr:0.001045 loss:0.636428 ETA:10.0min
+[2026-06-16 20:19:49,988][root][INFO] - [train] epoch:9 iter:90/500 18.00% lr:0.001045 loss:0.594948 ETA:9.0min
+[2026-06-16 20:20:04,172][root][INFO] - [train] epoch:9 iter:100/500 20.00% lr:0.001045 loss:0.595034 ETA:9.0min
+[2026-06-16 20:26:06,313][root][INFO] - used time: 362.0018119812012
+[2026-06-16 20:26:10,274][root][INFO] - scoreDF: 0.8564794229579757
+[2026-06-16 20:26:10,274][root][INFO] - scoreDt: 0.30283495362629004
+[2026-06-16 20:26:10,274][root][INFO] - scoreFt: 0.22784988121907607
+[2026-06-16 20:26:10,274][root][INFO] - scoreTD: 1.1593143765842657
+[2026-06-16 20:26:10,274][root][INFO] - scoreBS: 0.6286295417388996
+[2026-06-16 20:26:10,274][root][INFO] - scoreODP: 1.0749850724072139
+[2026-06-16 20:26:10,275][root][INFO] - scoreTDBS: 0.07498507240721397
+[2026-06-16 20:26:10,275][root][INFO] - scoreSNPR: 1.3290985801968285
+[2026-06-16 20:26:13,575][root][INFO] - [train] epoch:10 iter:0/500 0.00% lr:0.000342 loss:0.601878 ETA:26.0min
+[2026-06-16 20:26:28,531][root][INFO] - [train] epoch:10 iter:10/500 2.00% lr:0.000342 loss:0.593302 ETA:13.0min
+[2026-06-16 20:26:43,617][root][INFO] - [train] epoch:10 iter:20/500 4.00% lr:0.000342 loss:0.619340 ETA:13.0min
+[2026-06-16 20:26:59,579][root][INFO] - [train] epoch:10 iter:30/500 6.00% lr:0.000342 loss:0.577017 ETA:13.0min
+[2026-06-16 20:27:15,675][root][INFO] - [train] epoch:10 iter:40/500 8.00% lr:0.000342 loss:0.650562 ETA:12.0min
+[2026-06-16 20:27:31,190][root][INFO] - [train] epoch:10 iter:50/500 10.00% lr:0.000342 loss:0.550555 ETA:12.0min
+[2026-06-16 20:27:45,859][root][INFO] - [train] epoch:10 iter:60/500 12.00% lr:0.000342 loss:0.519206 ETA:12.0min
+[2026-06-16 20:28:01,241][root][INFO] - [train] epoch:10 iter:70/500 14.00% lr:0.000342 loss:0.542966 ETA:12.0min
+[2026-06-16 20:28:16,098][root][INFO] - [train] epoch:10 iter:80/500 16.00% lr:0.000342 loss:0.572108 ETA:10.0min
+[2026-06-16 20:28:30,618][root][INFO] - [train] epoch:10 iter:90/500 18.00% lr:0.000342 loss:0.553031 ETA:10.0min
+[2026-06-16 20:28:45,123][root][INFO] - [train] epoch:10 iter:100/500 20.00% lr:0.000342 loss:0.619095 ETA:10.0min
+[2026-06-16 20:34:47,344][root][INFO] - used time: 362.16632103919983
+[2026-06-16 20:34:50,965][root][INFO] - scoreDF: 0.8597106196778294
+[2026-06-16 20:34:50,965][root][INFO] - scoreDt: 0.30479457629551265
+[2026-06-16 20:34:50,965][root][INFO] - scoreFt: 0.22850940389650848
+[2026-06-16 20:34:50,965][root][INFO] - scoreTD: 1.1645051959733421
+[2026-06-16 20:34:50,965][root][INFO] - scoreBS: 0.6312012157813209
+[2026-06-16 20:34:50,965][root][INFO] - scoreODP: 1.0762851723990041
+[2026-06-16 20:34:50,965][root][INFO] - scoreTDBS: 0.07628517239900418
+[2026-06-16 20:34:50,965][root][INFO] - scoreSNPR: 1.3338382189012825
+[2026-06-16 20:34:53,400][root][INFO] - [train] epoch:11 iter:0/500 0.00% lr:0.010000 loss:0.735999 ETA:19.0min
+[2026-06-16 20:35:07,990][root][INFO] - [train] epoch:11 iter:10/500 2.00% lr:0.010000 loss:0.663722 ETA:12.0min
+[2026-06-16 20:35:23,592][root][INFO] - [train] epoch:11 iter:20/500 4.00% lr:0.010000 loss:0.838139 ETA:12.0min
+[2026-06-16 20:35:38,507][root][INFO] - [train] epoch:11 iter:30/500 6.00% lr:0.010000 loss:0.579172 ETA:12.0min
+[2026-06-16 20:35:55,072][root][INFO] - [train] epoch:11 iter:40/500 8.00% lr:0.010000 loss:0.886552 ETA:12.0min
+[2026-06-16 20:36:09,342][root][INFO] - [train] epoch:11 iter:50/500 10.00% lr:0.010000 loss:0.530638 ETA:11.0min
+[2026-06-16 20:36:23,474][root][INFO] - [train] epoch:11 iter:60/500 12.00% lr:0.010000 loss:0.599272 ETA:11.0min
+[2026-06-16 20:36:38,408][root][INFO] - [train] epoch:11 iter:70/500 14.00% lr:0.010000 loss:0.736068 ETA:11.0min
+[2026-06-16 20:36:52,258][root][INFO] - [train] epoch:11 iter:80/500 16.00% lr:0.010000 loss:0.597252 ETA:10.0min
+[2026-06-16 20:37:06,629][root][INFO] - [train] epoch:11 iter:90/500 18.00% lr:0.010000 loss:0.585603 ETA:10.0min
+[2026-06-16 20:37:21,923][root][INFO] - [train] epoch:11 iter:100/500 20.00% lr:0.010000 loss:0.575372 ETA:10.0min
