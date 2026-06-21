@@ -1,0 +1,12 @@
+.venv/
+data/
+datasets/
+epochs-*/
+models/
+outputs/
+figs/
+metrics/
+*.zip
+*.rar
+__pycache__/
+.DS_Store
